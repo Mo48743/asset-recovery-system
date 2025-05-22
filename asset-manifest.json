@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/asset-recovery-system/static/js/main.ae6f7f9d.js",
+    "main.css": "/asset-recovery-system/static/css/main.7183ab27.css",
+    "main.js": "/asset-recovery-system/static/js/main.31059152.js",
     "index.html": "/asset-recovery-system/index.html",
-    "main.ae6f7f9d.js.map": "/asset-recovery-system/static/js/main.ae6f7f9d.js.map"
+    "main.7183ab27.css.map": "/asset-recovery-system/static/css/main.7183ab27.css.map",
+    "main.31059152.js.map": "/asset-recovery-system/static/js/main.31059152.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae6f7f9d.js"
+    "static/css/main.7183ab27.css",
+    "static/js/main.31059152.js"
   ]
 }
